@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "js@gmail",
+      "mobile": "627882992"
+    },
+    {
+      "id": "3",
+      "email": "h@",
+      "mobile": "8900000000"
+    },
+    {
+      "id": "sumit",
+      "email": "hkkk@",
+      "mobile": "8900000000"
+    },
+    {
+      "id": "kkll",
+      "email": "kkkl@gamil",
+      "mobile": "222222"
+    },
+    {
+      "name": "Anit NC",
+      "email": "anit.gahlot@gmail.com",
+      "mobile": "8900000000",
+      "id": "_Ftl39U"
+    },
+    {
+      "name": "Anit AR",
+      "email": "njaj@gamil",
+      "mobile": "8828299",
+      "id": "ww6xsEH"
+    },
+    {
+      "name": "soja",
+      "email": "muna@gmail.com",
+      "mobile": "22222355",
+      "id": "HjBhJxH"
+    },
+    {
+      "name": "bro",
+      "email": "bk@gmail.com",
+      "mobile": "999900",
+      "id": "_he_zrf"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
